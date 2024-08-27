@@ -1,0 +1,99 @@
+{
+  "chapters": [
+    {
+      "chapter": "Define Game Concept",
+      "description": "Establish the core idea and vision for the game.",
+      "subItems": [
+        {
+          "item": "Concept Development",
+          "description": "Develop the core idea of the game, including genre, theme, and unique selling points."
+        },
+        {
+          "item": "Initial Research",
+          "description": "Research similar games and identify what makes your game unique."
+        }
+      ]
+    },
+    {
+      "chapter": "Define Target Audience (TA)",
+      "description": "Identify and understand your target audience to tailor the game effectively.",
+      "subItems": [
+        {
+          "item": "Audience Research and Personas",
+          "description": "Create detailed profiles of your ideal players to guide design decisions."
+        }
+      ]
+    },
+    {
+      "chapter": "Design Core Mechanics",
+      "description": "Outline the fundamental gameplay mechanics and rules.",
+      "subItems": [
+        {
+          "item": "Gameplay Mechanics",
+          "description": "Define how players interact with the game and what actions they can take."
+        },
+        {
+          "item": "Game Balance",
+          "description": "Ensure the game is fair and challenging, with well-balanced difficulty."
+        }
+      ]
+    },
+    {
+      "chapter": "Develop Story and Characters",
+      "description": "Create the narrative and characters that drive the game’s plot.",
+      "subItems": [
+        {
+          "item": "Storyline",
+          "description": "Outline the plot and progression of the game’s narrative."
+        },
+        {
+          "item": "Character Design",
+          "description": "Develop characters, including their backstories, motivations, and roles."
+        }
+      ]
+    },
+    {
+      "chapter": "Create Game World and Art",
+      "description": "Design the visual and environmental aspects of the game.",
+      "subItems": [
+        {
+          "item": "World Design",
+          "description": "Plan and create the game world, including maps, levels, and environments."
+        },
+        {
+          "item": "Art Style",
+          "description": "Define the visual style and artistic elements of the game."
+        }
+      ]
+    },
+    {
+      "chapter": "Prototype and Testing",
+      "description": "Develop a prototype and conduct initial testing to refine the game.",
+      "subItems": [
+        {
+          "item": "Prototype Development",
+          "description": "Create a working model of the game to test core mechanics and features."
+        },
+        {
+          "item": "Playtesting",
+          "description": "Conduct tests with real players to gather feedback and identify issues."
+        }
+      ]
+    },
+    {
+      "chapter": "Finalize and Launch",
+      "description": "Prepare the game for release and execute the launch plan.",
+      "subItems": [
+        {
+          "item": "Polishing and Refinement",
+          "description": "Make final adjustments and polish the game based on feedback."
+        },
+        {
+          "item": "Marketing and Release",
+          "description": "Develop a marketing strategy and prepare for the game’s release to the public."
+        }
+      ]
+    }
+  ],
+  "mode": "Consult"
+}
