@@ -1,0 +1,10 @@
+{
+  "History": {},
+  "Prompt": {
+    "[0,0]": "Create a 100-word persona for the target audience of a hand washer liquid for kids. Describe their characteristics, concerns, and preferences.",
+    "[1,0]": "Write a 100-word product description for a hand washer liquid designed for kids. Highlight key features, benefits, and unique selling points.",
+    "[2,0]": "Based on the product description, identify 10 SEO keywords that will help optimize content for search engines.",
+    "[3,0]": "Craft an engaging opening for the article, outline the key sections (e.g., Introduction, Features, Benefits, Unique Selling Points, Conclusion), and summarize with a strong conclusion and a clear call-to-action",
+    "[4,0]": "convert to real reading article with long content, that is, copywriting post on community. "
+  }
+}
